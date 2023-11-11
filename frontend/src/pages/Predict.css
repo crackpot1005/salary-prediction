@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@100;300;400;700&display=swap");
+body {
+  font-family: "Jost", sans-serif;
+  background-color: #f0f5ff;
+  transition: 0.5s;
+}
+body {
+  background-color: #121212;
+}
+@media only screen and (max-width: 768px) {
+  .predict {
+    width: 75%;
+  }
+}
+
+@media only screen and (max-width: 1366px) {
+  .predict {
+    width: 40%;
+  }
+}
+.predict {
+  background-color: #2b2b2b;
+  width: 25%;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 50px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+  transition: 0.5s;
+}
+
+h1 {
+  font-size: 25px;
+  text-align: center;
+  color: cyan;
+  transition: 0.5s;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+input {
+  width: 80%;
+  margin-bottom: 20px;
+  border: none;
+  background-color: #424242;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 14px;
+  transition: 0.5s;
+  color: white;
+}
+
+input:focus {
+  outline: none;
+}
+
+form button {
+  width: 30%;
+  border: none;
+  background-color: #794bc4;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  transition: 0.5s;
+}
+
+form button:hover {
+  cursor: pointer;
+  background-color: #875ad1;
+}
+
+form button:focus {
+  outline: none;
+}

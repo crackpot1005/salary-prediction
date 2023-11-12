@@ -12,7 +12,7 @@ class Predict extends Component {
 
   handleBodyClick() {
     axios
-      .post("http://sohammeher.pythonanywhere.com/predict", {
+      .post("https://sohammeher.pythonanywhere.com/predict", {
         experience: parseInt(document.getElementById("experience").value),
         testScore: parseInt(document.getElementById("testScore").value),
         interviewScore: parseInt(

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/salary-prediction/static/css/main.6707109d.css",
+    "main.css": "/salary-prediction/static/css/main.aaa89e94.css",
     "main.js": "/salary-prediction/static/js/main.f0a742be.js",
     "static/js/787.4b99e05f.chunk.js": "/salary-prediction/static/js/787.4b99e05f.chunk.js",
     "index.html": "/salary-prediction/index.html",
-    "main.6707109d.css.map": "/salary-prediction/static/css/main.6707109d.css.map",
+    "main.aaa89e94.css.map": "/salary-prediction/static/css/main.aaa89e94.css.map",
     "main.f0a742be.js.map": "/salary-prediction/static/js/main.f0a742be.js.map",
     "787.4b99e05f.chunk.js.map": "/salary-prediction/static/js/787.4b99e05f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6707109d.css",
+    "static/css/main.aaa89e94.css",
     "static/js/main.f0a742be.js"
   ]
 }

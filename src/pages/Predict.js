@@ -30,7 +30,8 @@ class Predict extends Component {
     return (
       <div>
         <div className="predict">
-          <form onSubmit={this.submit}>
+          <h1 className="h1Class">Welcome to Salary Predictor</h1>
+          <form>
             <input type="number" id="experience" placeholder="Experience" />
             <input
               type="number"

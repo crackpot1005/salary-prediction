@@ -173,3 +173,7 @@ form button:focus {
     width: 60%;
   }
 }
+
+.h1Class {
+  font-size: 24px;
+}

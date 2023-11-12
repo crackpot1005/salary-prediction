@@ -175,5 +175,6 @@ form button:focus {
 }
 
 .h1Class {
+  padding: 10px;
   font-size: 22px;
 }
